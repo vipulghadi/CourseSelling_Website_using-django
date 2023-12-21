@@ -1,0 +1,3 @@
+# THIS MOTIVE OF THIS PROJECT IS TO CREATE FULLY-FUNCTIONAL WEB APPLICATION FOR SELLING ONLINE COURSES
+
+## Welcome to  My project where learning meets convenience! Our cutting-edge platform, powered by the robust Python Django framework, offers a seamless and user-friendly experience for both educators and students. Explore a vast array of high-quality courses, expertly crafted to enhance your skills and knowledge. With secure payment options and intuitive navigation, This project is your go-to destination for unlocking a world of educational possibilities. Join us on a journey of discovery and empowerment today!
