@@ -1,3 +1,5 @@
-# THIS MOTIVE OF THIS PROJECT IS TO CREATE FULLY-FUNCTIONAL WEB APPLICATION FOR SELLING ONLINE COURSES
 
 ## Welcome to  My project where learning meets convenience! Our cutting-edge platform, powered by the robust Python Django framework, offers a seamless and user-friendly experience for both educators and students. Explore a vast array of high-quality courses, expertly crafted to enhance your skills and knowledge. With secure payment options and intuitive navigation, This project is your go-to destination for unlocking a world of educational possibilities. Join us on a journey of discovery and empowerment today!
+
+# DEMO
+![screencapture-localhost-8000-courses-vvv-2023-12-21-12_07_15](https://github.com/vipulghadi/CourseSelling_Website_using-django/assets/99540970/a1d624fc-e30f-48b0-8597-c7d6a4a86a36)![screencapture-localhost-8000-home-2023-12-21-12_07_41](https://github.com/vipulghadi/CourseSelling_Website_using-django/assets/99540970/b07c01a2-027f-4d36-b094-6e4486c3de52)![screencapture-localhost-8000-courses-vvv-2023-12-21-12_07_15](https://github.com/vipulghadi/CourseSelling_Website_using-django/assets/99540970/3493b81e-37cb-48b4-97e5-725efb952e73)# THIS MOTIVE OF THIS PROJECT IS TO CREATE FULLY-FUNCTIONAL WEB APPLICATION FOR SELLING ONLINE COURSES
